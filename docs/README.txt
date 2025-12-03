@@ -1,7 +1,7 @@
 # Day 1: FastAPI Sentiment Analysis API
 
-**Date:** 4th Dec 2025  
-**Time spent:** ~3 hours  
+**Date:** 3rd Dec 2025  
+**Time spent:** ~2 hours  
 
 ## Objectives:
 - Learn FastAPI basics
@@ -32,4 +32,4 @@
 - Start experimenting with multiple ML/LLM endpoints in the same API
 - Deploy API to cloud (Heroku / AWS / GCP)
 
-**Link to repo:** [Your GitHub Repo](#)
+**Link to repo:** github.com/AbhijithPai
