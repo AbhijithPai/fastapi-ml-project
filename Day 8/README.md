@@ -2,7 +2,7 @@
 
 Today I implemented **Continuous Integration (CI)** for my ML API using **GitHub Actions**.
 
-The CI pipeline automatically triggers on every push or pull request to the `main` branch and performs the following:
+The CI pipeline automatically triggers on every push or pull request to the `main` branch and performs the following things:
 - Sets up a clean Linux environment
 - Installs Python dependencies
 - Runs tests
