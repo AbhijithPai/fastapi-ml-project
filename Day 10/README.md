@@ -14,7 +14,7 @@ Added preprocessing pipeline (preprocess.py)
 
 Added inference pipeline (predict.py)
 
-Created a sample dataset for testing
+Used a twitter sentiment dataset from Kaggle
 
 Generated model + vectorizer artifacts
 
