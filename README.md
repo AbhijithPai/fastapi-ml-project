@@ -1,1 +1,1 @@
-Hello guys, this is my journey in learning MLops and LLMops for AI production engineering
+Hello guys, this is my journey in learning MLops for AI production engineering
